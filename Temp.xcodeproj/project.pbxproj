@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BB1DA9F21E2766680067E311 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB1DA9F11E2766680067E311 /* SecondViewController.m */; };
+		BB1DA9F51E276B290067E311 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB1DA9F41E276B290067E311 /* ThirdViewController.m */; };
 		BBBE7F631E0AA401006D2B82 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BBBE7F621E0AA401006D2B82 /* main.m */; };
 		BBBE7F661E0AA401006D2B82 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BBBE7F651E0AA401006D2B82 /* AppDelegate.m */; };
 		BBBE7F691E0AA401006D2B82 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBBE7F681E0AA401006D2B82 /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		BB1DA9F01E2766680067E311 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		BB1DA9F11E2766680067E311 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		BB1DA9F31E276B290067E311 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		BB1DA9F41E276B290067E311 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 		BBBE7F5E1E0AA400006D2B82 /* Temp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Temp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBBE7F621E0AA401006D2B82 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BBBE7F641E0AA401006D2B82 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -66,6 +69,8 @@
 				BBBE7F671E0AA401006D2B82 /* ViewController.h */,
 				BBBE7F681E0AA401006D2B82 /* ViewController.m */,
 				BB1DA9F01E2766680067E311 /* SecondViewController.h */,
+				BB1DA9F31E276B290067E311 /* ThirdViewController.h */,
+				BB1DA9F41E276B290067E311 /* ThirdViewController.m */,
 				BB1DA9F11E2766680067E311 /* SecondViewController.m */,
 				BBBE7F6A1E0AA401006D2B82 /* Main.storyboard */,
 				BBBE7F6D1E0AA401006D2B82 /* Assets.xcassets */,
@@ -155,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB1DA9F21E2766680067E311 /* SecondViewController.m in Sources */,
+				BB1DA9F51E276B290067E311 /* ThirdViewController.m in Sources */,
 				BBBE7F691E0AA401006D2B82 /* ViewController.m in Sources */,
 				BBBE7F661E0AA401006D2B82 /* AppDelegate.m in Sources */,
 				BBBE7F631E0AA401006D2B82 /* main.m in Sources */,
